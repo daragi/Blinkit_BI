@@ -119,7 +119,7 @@
 BIproject/
 ├── data/                # 원본 데이터셋
 ├── docs/                # BI 기획서 및 대시보드 설명 문서
-├── outputs/             # BI 기획서 및 대시보드 설명 문서
+├── outputs/             # KPI 산출 테이블 및 대시보드 결과물
 ├── DA/                  # 데이터 전처리 및 JOIN 산출 notebooks
 └── README.md
 ```
