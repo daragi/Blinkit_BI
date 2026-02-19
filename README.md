@@ -119,7 +119,8 @@
 BIproject/
 ├── data/                # 원본 데이터셋
 ├── docs/                # BI 기획서 및 대시보드 설명 문서
-├── DA/                  # 데이터 전처리 과정 및 JOIN 수행, KPI테이블 산출물
+├── outputs/             # BI 기획서 및 대시보드 설명 문서
+├── DA/                  # 데이터 전처리 및 JOIN 산출 notebooks
 └── README.md
 ```
 
@@ -240,7 +241,8 @@ products → inventory
 - pandas
 - Looker Studio
 - Google Silde
-  
+
+---
 ## 9. 협업 규칙
 
 > Git 커밋 컨벤션
