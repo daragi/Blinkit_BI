@@ -1,0 +1,244 @@
+category,product_name,Dead_stock,price,loss_amount
+Pet Care,Pet Treats,6,906.54,5439.24
+Household Care,Toilet Cleaner,5,994.56,4972.799999999999
+Pet Care,Pet Treats,6,799.46,4796.76
+Pet Care,Pet Treats,6,787.4,4724.4
+Household Care,Toilet Cleaner,5,936.98,4684.9
+Grocery & Staples,Pulses,6,778.9,4673.4
+Pharmacy,Cough Syrup,5,877.89,4389.45
+Pharmacy,Cough Syrup,5,864.3,4321.5
+Household Care,Toilet Cleaner,5,856.89,4284.45
+Pet Care,Pet Treats,6,702.71,4216.26
+Pharmacy,Cough Syrup,5,785.67,3928.35
+Household Care,Detergent,4,972.69,3890.76
+Pharmacy,Cough Syrup,5,765.76,3828.8
+Dairy & Breakfast,Bread,4,951.43,3805.72
+Dairy & Breakfast,Cheese,4,922.64,3690.56
+Pet Care,Pet Treats,6,597.91,3587.46
+Dairy & Breakfast,Bread,4,882.51,3530.04
+Cold Drinks & Juices,Orange Juice,4,881.42,3525.68
+Pet Care,Dog Food,4,878.8,3515.2
+Personal Care,Lotion,4,878.07,3512.28
+Cold Drinks & Juices,Orange Juice,4,874.78,3499.12
+Pet Care,Pet Treats,6,563.45,3380.7000000000003
+Pet Care,Dog Food,4,831.1,3324.4
+Grocery & Staples,Pulses,6,551.88,3311.2799999999997
+Pet Care,Pet Treats,6,545.0,3270.0
+Personal Care,Lotion,4,816.38,3265.52
+Dairy & Breakfast,Bread,4,786.85,3147.4
+Pet Care,Pet Treats,6,517.03,3102.18
+Dairy & Breakfast,Bread,4,738.74,2954.96
+Pet Care,Pet Treats,6,486.28,2917.68
+Personal Care,Lotion,4,727.95,2911.8
+Pharmacy,Cough Syrup,5,577.13,2885.65
+Household Care,Toilet Cleaner,5,576.22,2881.1000000000004
+Dairy & Breakfast,Curd,3,910.44,2731.32
+Pet Care,Dog Food,4,675.46,2701.84
+Cold Drinks & Juices,Cola,3,891.6,2674.8
+Pharmacy,Pain Reliever,3,888.12,2664.36
+Cold Drinks & Juices,Cola,3,883.44,2650.32
+Cold Drinks & Juices,Orange Juice,4,657.8,2631.2
+Grocery & Staples,Pulses,6,415.75,2494.5
+Instant & Frozen Food,Frozen Biryani,3,827.77,2483.31
+Pharmacy,Pain Reliever,3,822.63,2467.89
+Dairy & Breakfast,Bread,4,608.0,2432.0
+Pet Care,Pet Treats,6,392.22,2353.32
+Dairy & Breakfast,Cheese,4,578.85,2315.4
+Instant & Frozen Food,Frozen Biryani,3,769.24,2307.7200000000003
+Snacks & Munchies,Chocolates,3,746.03,2238.09
+Cold Drinks & Juices,Cola,3,738.46,2215.38
+Fruits & Vegetables,Bananas,3,728.73,2186.19
+Cold Drinks & Juices,Cola,3,671.68,2015.04
+Pharmacy,Vitamins,2,995.98,1991.96
+Household Care,Toilet Cleaner,5,397.55,1987.75
+Dairy & Breakfast,Eggs,2,989.88,1979.76
+Pet Care,Dog Food,4,494.17,1976.68
+Pet Care,Dog Food,4,491.39,1965.56
+Instant & Frozen Food,Frozen Vegetables,2,979.99,1959.98
+Grocery & Staples,Pulses,6,325.08,1950.48
+Instant & Frozen Food,Ice Cream,2,973.44,1946.88
+Household Care,Dish Soap,2,968.94,1937.88
+Snacks & Munchies,Cookies,2,951.27,1902.54
+Personal Care,Soap,2,949.73,1899.46
+Pharmacy,Pain Reliever,3,632.43,1897.29
+Pharmacy,Vitamins,2,942.37,1884.74
+Baby Care,Baby Food,2,931.61,1863.22
+Dairy & Breakfast,Eggs,2,923.84,1847.68
+Personal Care,Soap,2,918.58,1837.16
+Household Care,Dish Soap,2,915.45,1830.9
+Baby Care,Baby Food,2,914.88,1829.76
+Fruits & Vegetables,Potatoes,2,888.16,1776.32
+Pet Care,Cat Food,2,887.48,1774.96
+Cold Drinks & Juices,Orange Juice,4,441.2,1764.8
+Personal Care,Toothpaste,2,877.98,1755.96
+Pharmacy,Pain Reliever,3,582.87,1748.6100000000001
+Fruits & Vegetables,Carrots,2,870.29,1740.58
+Pharmacy,Vitamins,2,852.02,1704.04
+Pharmacy,Vitamins,2,832.06,1664.12
+Dairy & Breakfast,Eggs,2,826.21,1652.42
+Fruits & Vegetables,Carrots,2,825.46,1650.92
+Pharmacy,Cough Syrup,5,328.51,1642.55
+Pet Care,Cat Food,2,820.9,1641.8
+Personal Care,Lotion,4,400.92,1603.68
+Pharmacy,Vitamins,2,801.81,1603.62
+Fruits & Vegetables,Bananas,3,532.57,1597.71
+Pharmacy,Pain Reliever,3,530.85,1592.5500000000002
+Fruits & Vegetables,Potatoes,2,781.08,1562.16
+Household Care,Dish Soap,2,755.66,1511.32
+Dairy & Breakfast,Curd,3,493.19,1479.57
+Instant & Frozen Food,Frozen Pizza,3,482.06,1446.18
+Dairy & Breakfast,Curd,3,481.63,1444.8899999999999
+Personal Care,Toothpaste,2,722.42,1444.84
+Pet Care,Cat Food,2,720.95,1441.9
+Dairy & Breakfast,Bread,4,359.98,1439.92
+Pharmacy,Vitamins,2,715.72,1431.44
+Instant & Frozen Food,Frozen Biryani,3,475.04,1425.1200000000001
+Grocery & Staples,Wheat Flour,2,697.53,1395.06
+Household Care,Toilet Cleaner,5,277.76,1388.8
+Dairy & Breakfast,Curd,3,449.97,1349.91
+Personal Care,Toothpaste,2,672.73,1345.46
+Pet Care,Cat Food,2,671.55,1343.1
+Personal Care,Lotion,4,326.42,1305.68
+Pharmacy,Cough Syrup,5,261.03,1305.1499999999999
+Personal Care,Soap,2,650.2,1300.4
+Personal Care,Shampoo,3,432.39,1297.17
+Personal Care,Lotion,4,319.8,1279.2
+Dairy & Breakfast,Cheese,4,319.34,1277.36
+Personal Care,Shampoo,3,423.56,1270.68
+Cold Drinks & Juices,Cola,3,422.23,1266.69
+Fruits & Vegetables,Carrots,2,631.7,1263.4
+Dairy & Breakfast,Cheese,4,310.87,1243.48
+Personal Care,Lotion,4,309.62,1238.48
+Instant & Frozen Food,Ice Cream,2,616.45,1232.9
+Baby Care,Baby Food,2,607.67,1215.34
+Grocery & Staples,Pulses,6,198.15,1188.9
+Grocery & Staples,Pulses,6,197.39,1184.34
+Grocery & Staples,Wheat Flour,2,568.94,1137.88
+Instant & Frozen Food,Frozen Biryani,3,369.28,1107.84
+Personal Care,Shampoo,3,367.08,1101.24
+Dairy & Breakfast,Eggs,2,545.49,1090.98
+Pharmacy,Cough Syrup,5,217.4,1087.0
+Household Care,Toilet Cleaner,5,212.61,1063.0500000000002
+Cold Drinks & Juices,Orange Juice,4,264.89,1059.56
+Pharmacy,Vitamins,2,517.77,1035.54
+Household Care,Dish Soap,2,508.0,1016.0
+Fruits & Vegetables,Potatoes,2,505.95,1011.9
+Instant & Frozen Food,Frozen Biryani,3,329.79,989.3700000000001
+Snacks & Munchies,Nuts,1,976.55,976.55
+Pharmacy,Vitamins,2,478.79,957.58
+Instant & Frozen Food,Frozen Biryani,3,317.8,953.4000000000001
+Fruits & Vegetables,Onions,1,947.95,947.95
+Fruits & Vegetables,Mangoes,1,946.86,946.86
+Baby Care,Baby Wipes,1,941.19,941.19
+Baby Care,Baby Wipes,1,939.55,939.55
+Fruits & Vegetables,Onions,1,934.75,934.75
+Fruits & Vegetables,Mangoes,1,925.65,925.65
+Dairy & Breakfast,Bread,4,230.58,922.32
+Instant & Frozen Food,Frozen Pizza,3,307.23,921.69
+Personal Care,Soap,2,448.16,896.32
+Snacks & Munchies,Chocolates,3,297.68,893.04
+Household Care,Dish Soap,2,445.48,890.96
+Grocery & Staples,Wheat Flour,2,443.17,886.34
+Fruits & Vegetables,Carrots,2,440.19,880.38
+Household Care,Dish Soap,2,439.24,878.48
+Fruits & Vegetables,Onions,1,877.43,877.43
+Fruits & Vegetables,Tomatoes,1,869.22,869.22
+Grocery & Staples,Pulses,6,144.19,865.14
+Instant & Frozen Food,Frozen Pizza,3,287.81,863.4300000000001
+Baby Care,Baby Wipes,1,863.18,863.18
+Grocery & Staples,Sugar,1,862.28,862.28
+Cold Drinks & Juices,Mango Drink,1,858.57,858.57
+Fruits & Vegetables,Potatoes,2,416.65,833.3
+Baby Care,Diapers,1,827.44,827.44
+Household Care,Toilet Cleaner,5,160.07,800.3499999999999
+Household Care,Dish Soap,2,397.68,795.36
+Snacks & Munchies,Popcorn,2,395.82,791.64
+Snacks & Munchies,Chocolates,3,263.7,791.0999999999999
+Household Care,Detergent,4,193.46,773.84
+Personal Care,Shampoo,3,242.57,727.71
+Snacks & Munchies,Cookies,2,357.42,714.84
+Fruits & Vegetables,Carrots,2,354.91,709.82
+Grocery & Staples,Sugar,1,709.08,709.08
+Grocery & Staples,Wheat Flour,2,347.91,695.82
+Pharmacy,Vitamins,2,342.94,685.88
+Snacks & Munchies,Chocolates,3,227.22,681.66
+Instant & Frozen Food,Frozen Vegetables,2,340.66,681.32
+Fruits & Vegetables,Bananas,3,217.5,652.5
+Household Care,Detergent,4,163.03,652.12
+Household Care,Detergent,4,162.67,650.68
+Snacks & Munchies,Popcorn,2,317.05,634.1
+Pet Care,Cat Food,2,316.02,632.04
+Fruits & Vegetables,Spinach,1,630.84,630.84
+Grocery & Staples,Salt,1,622.81,622.81
+Household Care,Toilet Cleaner,5,123.74,618.6999999999999
+Grocery & Staples,Pulses,6,102.44,614.64
+Grocery & Staples,Salt,1,612.04,612.04
+Pet Care,Pet Treats,6,98.32,589.92
+Dairy & Breakfast,Eggs,2,281.73,563.46
+Instant & Frozen Food,Frozen Pizza,3,186.08,558.24
+Snacks & Munchies,Nuts,1,556.35,556.35
+Grocery & Staples,Sugar,1,549.47,549.47
+Cold Drinks & Juices,Cola,3,179.08,537.24
+Cold Drinks & Juices,Orange Juice,4,130.01,520.04
+Personal Care,Shampoo,3,171.2,513.5999999999999
+Snacks & Munchies,Popcorn,2,255.35,510.7
+Pet Care,Pet Treats,6,83.18,499.08000000000004
+Snacks & Munchies,Cookies,2,237.62,475.24
+Snacks & Munchies,Popcorn,2,236.95,473.9
+Baby Care,Baby Food,2,236.51,473.02
+Pharmacy,Cough Syrup,5,90.56,452.8
+Baby Care,Baby Food,2,225.21,450.42
+Cold Drinks & Juices,Mango Drink,1,432.0,432.0
+Pet Care,Cat Food,2,215.65,431.3
+Baby Care,Baby Wipes,1,426.72,426.72
+Fruits & Vegetables,Potatoes,2,212.14,424.28
+Dairy & Breakfast,Cereal,1,422.87,422.87
+Dairy & Breakfast,Eggs,2,211.25,422.5
+Household Care,Toilet Cleaner,5,77.11,385.55
+Dairy & Breakfast,Cheese,4,96.09,384.36
+Baby Care,Baby Food,2,189.47,378.94
+Pharmacy,Vitamins,2,183.76,367.52
+Fruits & Vegetables,Onions,1,354.52,354.52
+Grocery & Staples,Sugar,1,340.36,340.36
+Personal Care,Lotion,4,84.2,336.8
+Pet Care,Dog Food,4,81.35,325.4
+Baby Care,Diapers,1,321.33,321.33
+Cold Drinks & Juices,Mango Drink,1,321.28,321.28
+Personal Care,Lotion,4,80.25,321.0
+Cold Drinks & Juices,Mango Drink,1,317.82,317.82
+Grocery & Staples,Sugar,1,310.69,310.69
+Snacks & Munchies,Popcorn,2,152.55,305.1
+Household Care,Dish Soap,2,141.28,282.56
+Instant & Frozen Food,Ice Cream,2,140.8,281.6
+Baby Care,Baby Wipes,1,275.03,275.03
+Baby Care,Baby Wipes,1,274.25,274.25
+Household Care,Detergent,4,68.49,273.96
+Snacks & Munchies,Nuts,1,267.61,267.61
+Pharmacy,Pain Reliever,3,87.3,261.9
+Fruits & Vegetables,Potatoes,2,127.16,254.32
+Fruits & Vegetables,Onions,1,223.27,223.27
+Pet Care,Cat Food,2,109.03,218.06
+Fruits & Vegetables,Tomatoes,1,209.59,209.59
+Grocery & Staples,Wheat Flour,2,97.04,194.08
+Personal Care,Toothpaste,2,88.43,176.86
+Household Care,Detergent,4,44.09,176.36
+Baby Care,Baby Wipes,1,169.88,169.88
+Snacks & Munchies,Nuts,1,166.42,166.42
+Fruits & Vegetables,Tomatoes,1,163.55,163.55
+Instant & Frozen Food,Frozen Pizza,3,53.49,160.47
+Personal Care,Lotion,4,39.65,158.6
+Dairy & Breakfast,Cereal,1,154.5,154.5
+Household Care,Detergent,4,33.76,135.04
+Cold Drinks & Juices,Cola,3,44.35,133.05
+Fruits & Vegetables,Onions,1,127.08,127.08
+Dairy & Breakfast,Eggs,2,58.59,117.18
+Baby Care,Baby Wipes,1,114.52,114.52
+Personal Care,Soap,2,48.55,97.1
+Instant & Frozen Food,Frozen Vegetables,2,46.62,93.24
+Personal Care,Toothpaste,2,43.05,86.1
+Household Care,Dish Soap,2,40.7,81.4
+Cold Drinks & Juices,Orange Juice,4,16.86,67.44
+Instant & Frozen Food,Frozen Biryani,3,22.04,66.12
+Household Care,Dish Soap,2,22.14,44.28
+Grocery & Staples,Salt,1,37.8,37.8
+Fruits & Vegetables,Potatoes,2,13.25,26.5
